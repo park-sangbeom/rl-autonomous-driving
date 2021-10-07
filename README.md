@@ -4,9 +4,7 @@ This is a project by "굴렁쇠" team at 8th Open Lab, AI LAB KOREA Association,
 
 We implemented autonomous vehicle alogrithms based on reinforcement learning on Donkey Car Simulator.
 
-Donkey Car Simulator에서 화학습을 기반으로 자율주행 알고리즘을 개발하였습니다.
-
-Script: Autonomous-Car-in-Donkey-Simulator/DonkeySimWin/projects/mysim
+Code: Autonomous-Car-in-Donkey-Simulator/DonkeySimWin/projects/mysim
 
 Video: https://youtu.be/J0vdPe0Jf1o 
 
