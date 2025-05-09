@@ -1,4 +1,4 @@
-# Autonomous Car in Donkey Simulator
+# Autonomous Car in Unity Simulator using Reinforcement Learning
 
 This is a project by "굴렁쇠" team at 8th Open Lab, AI LAB KOREA Association, Inc.  
 
